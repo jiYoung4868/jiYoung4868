@@ -2,6 +2,11 @@
 <p><small><a href="https://www.instagram.com/jessie__life95?igshid=YTQwZjQ0NmI0OA==">Instagram @jessie__life95</a></small></p>
 <p><small><a href="https://www.instagram.com/jessie__life95?igshid=YTQwZjQ0NmI0OA==">Instagram @up.jessie</a></small></p>
 ✨I learn, I work, I climb✨
+
+Tech Stack
+- Front-end: 
+- Back-end: 
+- Database: 
 <!--
 **jiYoung4868/jiYoung4868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
