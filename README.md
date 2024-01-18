@@ -1,4 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Jessie.&fontSize=70&color=0:23BCCDFF,0:23BCCDFF&stroke=23BCCDFF)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Jessie.&fontSize=70&color=0:B4CCF4,0:B4CCF4&stroke=B4CCF4)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjiYoung4868&count_bg=%23FFFFFF&title_bg=%23B4C3F4&icon=&icon_color=%23FFFFFF&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
 <p><small><a href="https://www.instagram.com/jessie__life95?igshid=YTQwZjQ0NmI0OA==">Instagram @jessie__life95</a></small></p>
 <p><small><a href="https://www.instagram.com/jessie__life95?igshid=YTQwZjQ0NmI0OA==">Instagram @up.jessie</a></small></p>
